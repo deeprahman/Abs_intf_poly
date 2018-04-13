@@ -10,6 +10,7 @@ include_once 'classes/Circle.php';
  * 
  */
 class Rectangle extends Circle implements Shape  {
+  
   public function area(float $radious,float $length,float $width):float{
     return $length*$width;
   }
