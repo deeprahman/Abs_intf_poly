@@ -3,9 +3,11 @@
 declare (strict_types=1);
 
 namespace classes;
+
 use interfaces\Shape;
+
 include_once 'interfaces/Shape.php';
-//include_once 'interfaces/Shape.php';
+;
 /**
  * Shape of a circle
  *

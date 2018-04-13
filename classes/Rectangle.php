@@ -1,8 +1,11 @@
 <?php
 declare(strict_types=1);
+
 namespace classes;
+
 use classes\Circle;
 use interfaces\Shape;
+
 include_once 'interfaces/Shape.php';
 include_once 'classes/Circle.php';
 
