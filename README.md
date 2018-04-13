@@ -3,4 +3,4 @@ The class AnEmployee extends the class Employee, and implements the abstract met
 
 
 Shape is an interface.
-The class Circle and Rectangle implements the interface.
+The class Circle and  Rectangle implement the interface.
